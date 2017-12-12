@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import Config
 import telebot
-import Parser
 import random
 import Json
 
